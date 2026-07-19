@@ -22,6 +22,7 @@ DSA Placement Preparation
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sarthakpatil03/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/sarthakpatil03/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/sarthakpatil03/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakpatil03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sarthakpatil03/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,4 +57,12 @@ DSA Placement Preparation
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakpatil03/DSA/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sarthakpatil03/DSA/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sarthakpatil03/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
