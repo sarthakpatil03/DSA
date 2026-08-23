@@ -13,6 +13,7 @@ DSA Placement Preparation
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarthakpatil03/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sarthakpatil03/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/sarthakpatil03/DSA/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakpatil03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sarthakpatil03/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,12 +41,14 @@ DSA Placement Preparation
 | ------- |
 | [0015-3sum](https://github.com/sarthakpatil03/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sarthakpatil03/DSA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/sarthakpatil03/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sarthakpatil03/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthakpatil03/DSA/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarthakpatil03/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sarthakpatil03/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sarthakpatil03/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sarthakpatil03/DSA/tree/master/0344-reverse-string) |
@@ -69,6 +72,7 @@ DSA Placement Preparation
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakpatil03/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sarthakpatil03/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sarthakpatil03/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sarthakpatil03/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthakpatil03/DSA/tree/master/0242-valid-anagram) |
