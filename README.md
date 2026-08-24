@@ -54,6 +54,7 @@ DSA Placement Preparation
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarthakpatil03/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarthakpatil03/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sarthakpatil03/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sarthakpatil03/DSA/tree/master/0242-valid-anagram) |
@@ -69,6 +70,7 @@ DSA Placement Preparation
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarthakpatil03/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthakpatil03/DSA/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -115,4 +117,8 @@ DSA Placement Preparation
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sarthakpatil03/DSA/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sarthakpatil03/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
