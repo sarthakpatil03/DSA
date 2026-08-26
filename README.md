@@ -22,6 +22,7 @@ DSA Placement Preparation
 | [0347-top-k-frequent-elements](https://github.com/sarthakpatil03/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sarthakpatil03/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/sarthakpatil03/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sarthakpatil03/DSA/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ DSA Placement Preparation
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakpatil03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sarthakpatil03/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sarthakpatil03/DSA/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
