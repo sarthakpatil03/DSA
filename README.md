@@ -20,6 +20,7 @@ DSA Placement Preparation
 | [0283-move-zeroes](https://github.com/sarthakpatil03/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakpatil03/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/sarthakpatil03/DSA/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/sarthakpatil03/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ DSA Placement Preparation
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarthakpatil03/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/sarthakpatil03/DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
