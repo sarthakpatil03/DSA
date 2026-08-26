@@ -19,6 +19,7 @@ DSA Placement Preparation
 | [0217-contains-duplicate](https://github.com/sarthakpatil03/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sarthakpatil03/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakpatil03/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/sarthakpatil03/DSA/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarthakpatil03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -72,10 +73,12 @@ DSA Placement Preparation
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthakpatil03/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthakpatil03/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/sarthakpatil03/DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakpatil03/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/sarthakpatil03/DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +89,7 @@ DSA Placement Preparation
 | [0217-contains-duplicate](https://github.com/sarthakpatil03/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthakpatil03/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakpatil03/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/sarthakpatil03/DSA/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
